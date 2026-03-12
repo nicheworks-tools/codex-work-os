@@ -22,6 +22,8 @@ Its native structure is built around:
 - lightweight validation and install scripts
 - examples and specs
 
+Read the project overview: https://nicheworks.app/tools/codex-work-os/
+
 ---
 
 ## What this repository is for
@@ -184,8 +186,10 @@ This project is not intended to become:
 Published by **NicheWorks**.
 
 Website:
-
 - `https://nicheworks.app/`
+
+Project overview: 
+- `https://nicheworks.app/tools/codex-work-os/`
 
 ---
 
